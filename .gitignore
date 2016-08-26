@@ -1,6 +1,7 @@
 .deps
 .dirstamp
 .libs
+.built
 autom4te.cache
 autogen.err
 aclocal.m4
